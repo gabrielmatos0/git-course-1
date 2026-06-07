@@ -4,3 +4,4 @@ function b
 function c
 function d
 funcionalidade "e" criada
+funcionalidade "f" criada
