@@ -4,3 +4,4 @@ function b
 function c
 function d
 function e
+function f
